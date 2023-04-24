@@ -2,7 +2,7 @@ import { FiPlus} from 'react-icons/fi';
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 
-import { api } from "../../../../aplicacaonode/src/services/api"
+import { api } from "../../../../rocketmovies-backend/src/services/api"
 
 
 import { Container, Content, NewNote } from "./styles";

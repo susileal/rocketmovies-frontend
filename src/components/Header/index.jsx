@@ -3,7 +3,7 @@ import { useAuth } from "../../hooks/auth";
 import { useNavigate } from "react-router-dom";
 
 
-import { api } from "../../../../aplicacaonode/src/services/api"
+import { api } from "../../../../rocketmovies-backend/src/services/api"
 import avatarPlaceholder from '../../assets/avatar_placeholder.svg'
 
 import { FiSearch } from 'react-icons/fi';

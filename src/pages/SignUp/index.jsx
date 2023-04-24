@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 import { FiMail, FiLock, FiUser, FiArrowLeft } from 'react-icons/fi'
 
-import { api } from "../../../../aplicacaonode/src/services/api"
+import { api } from "../../../../rocketmovies-backend/src/services/api"
 
 import { Link, useNavigate } from 'react-router-dom';
 

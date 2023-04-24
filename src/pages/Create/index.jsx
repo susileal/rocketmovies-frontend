@@ -1,7 +1,7 @@
 import { FiArrowLeft} from 'react-icons/fi';
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { api } from "../../../../aplicacaonode/src/services/api"
+import { api } from "../../../../rocketmovies-backend/src/services/api"
 
 import { Header } from "../../components/Header"
 import { Input } from "../../components/Input"
