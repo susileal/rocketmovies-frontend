@@ -9,7 +9,7 @@ import { useState, useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom"
 import { useAuth } from "../../hooks/auth";
 import avatarPlaceholder from '../../assets/avatar_placeholder.svg'
-import { api } from "../../../../rocketmovies-backend/src/services/api"
+import { api } from "../../services/api"
 
 import { FiArrowLeft } from 'react-icons/fi';
 
